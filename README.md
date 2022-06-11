@@ -23,7 +23,7 @@ https://github.com/jacobgil/pytorch-grad-cam
 
 #############################################
 
-Here, we include our code of the proposed method SAMC on Split CIFAR-100. Other datasets follow directly. To replicate the experiment, please:
+Here, we include our code of the proposed method SAMC on Split CIFAR-100. Other datasets follow directly and will be added upon publication. To replicate the experiment, please:
 
 1. Create an empty folder called "data". Generate the Split CIFAR-100 dataset "cifar100.pt" at "data" folder. The detailed procedure has been shown in the repo of GEM and please refer to its repo. 
 
