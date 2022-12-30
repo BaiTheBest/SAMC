@@ -1,5 +1,5 @@
 # SAMC
-This is the GitHu repo for paper "Saliency-Augmented Memory Completion for Continual Learning" published at SIAM SDM 2023.
+This is the GitHu repo for paper *"Saliency-Augmented Memory Completion for Continual Learning"* published at SIAM SDM 2023.
 
 Our code is built upon the following repo:
 
