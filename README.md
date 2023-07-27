@@ -32,3 +32,16 @@ Here, we include our code of the proposed method SAMC on Split CIFAR-100. Other 
 python main.py --n_layers 2 --n_hiddens 100 --data_path data/ --save_path results/ --batch_size 10 --log_every 100 --samples_per_task 2500 --data_file cifar100.pt --cuda yes --seed 0 --model samc --n_epochs 1 --lr 0.1 --n_memories 10 --memory_strength 0.5 --theta 0.6
 
 Remark: Our code has been tested in Anaconda environment with conda 4.10.3, Python 3.8.3, and PyTorch 1.6.0.
+
+## Reference and Citation
+
+If you find our paper or code useful, please consider citing our work :)
+
+        @inproceedings{bai2023saliency,
+          title={Saliency-Augmented Memory Completion for Continual Learning},
+          author={Bai, Guangji and Ling, Chen and Gao, Yuyang and Zhao, Liang},
+          booktitle={Proceedings of the 2023 SIAM International Conference on Data Mining (SDM)},
+          pages={244--252},
+          year={2023},
+          organization={SIAM}
+        }
