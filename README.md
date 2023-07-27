@@ -5,23 +5,15 @@ Our code is built upon the following repo:
 
 https://github.com/facebookresearch/GradientEpisodicMemory/tree/master/model
 
-which is for paper "Gradient Episodic Memory for Continual Learning"
+which is for the paper "Gradient Episodic Memory for Continual Learning"
 
-```
-@inproceedings{GradientEpisodicMemory,
-    title={Gradient Episodic Memory for Continual Learning},
-    author={Lopez-Paz, David and Ranzato, Marc'Aurelio},
-    booktitle={NIPS},
-    year={2017}
-}
-```
 
 We also leverage the Grad-CAM implementation in PyTorch from the following repo:
 
 https://github.com/jacobgil/pytorch-grad-cam
 
 
-#############################################
+## Instructions
 
 Here, we include our code of the proposed method SAMC on Split CIFAR-100. Other datasets follow directly. To replicate the experiment, please:
 
