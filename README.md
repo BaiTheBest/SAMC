@@ -1,5 +1,5 @@
 # SAMC
-This is the GitHub repo for the paper *"[Saliency-Augmented Memory Completion for Continual Learning](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28)"* published at SIAM SDM 2023.
+This is the GitHub repo for the paper *"Saliency-Augmented Memory Completion for Continual Learning"* published at SIAM SDM 2023 ([link]((https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28)). 
 
 Our code is built upon the following repo:
 
